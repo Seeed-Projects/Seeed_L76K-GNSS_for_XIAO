@@ -7,8 +7,8 @@ This repository contains Arduino example code for the Quectel L76K GNSS Module, 
 
 </div>
 <p align="center">
-  <a href="https://wiki.Seeed Studio.com/get_start_l76k_gnss/">
-    <img src="https://files.Seeed Studio.com/wiki/Seeeduino-XIAO-Expansion-Board/GPS_Module/L76K/1-L76K-GNSS-Module-for-Seeed-Studio-XIAO-45font.jpg" width="480" height="auto" alt="SenseCAP">
+  <a href="https://wiki.seeedstudio.com/get_start_l76k_gnss/">
+    <img src="https://files.seeedstudio.com/wiki/Seeeduino-XIAO-Expansion-Board/GPS_Module/L76K/1-L76K-GNSS-Module-for-Seeed-Studio-XIAO-45font.jpg" width="480" height="auto" alt="SenseCAP">
   </a>
 </p>
 </div>
@@ -33,7 +33,7 @@ This repository contains Arduino example code for the Quectel L76K GNSS Module, 
 
 1. **Install Arduino IDE** - Download and install the Arduino IDE from the [official Arduino website](https://www.arduino.cc/en/software).
 
-2. **Configure Arduino IDE for Seeed Studio XIAO** - Follow the instructions in the [Seeed Wiki](https://wiki.Seeed Studio.com/Seeeduino-XIAO/#software) to add support for your specific XIAO development board.
+2. **Configure Arduino IDE for Seeed Studio XIAO** - Follow the instructions in the [Seeed Wiki](https://wiki.seeedstudio.com/Seeeduino-XIAO/#software) to add support for your specific XIAO development board.
 
 3. **Install TinyGPSPlus Library** - In the Arduino IDE, go to `Sketch` > `Include Library` > `Manage Libraries...`, search for "TinyGPSPlus", and install the library.
 
@@ -49,7 +49,7 @@ This repository includes several example sketches demonstrating how to use the L
 Connect the L76K GNSS Module to your XIAO development board according to the pinout provided in the module's documentation. Ensure the GNSS antenna is properly connected to the module before powering it up.
 
 <p align="center">
-    <img src="https://files.Seeed Studio.com/wiki/Seeeduino-XIAO-Expansion-Board/GPS_Module/L76K/gnss-xiao-assembled.png" width="480" height="auto" alt="SenseCAP">
+    <img src="https://files.seeedstudio.com/wiki/Seeeduino-XIAO-Expansion-Board/GPS_Module/L76K/gnss-xiao-assembled.png" width="480" height="auto" alt="SenseCAP">
   </a>
 </p>
 
@@ -64,7 +64,7 @@ Open the `BasicExample.ino` sketch in the Arduino IDE, select your XIAO board an
 
 ## Purchase
 
-Get your L76K GNSS Module for Seeed Studio XIAO [here](https://www.Seeed Studio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html).
+Get your L76K GNSS Module for Seeed Studio XIAO [here](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html).
 
 ## Contributing
 

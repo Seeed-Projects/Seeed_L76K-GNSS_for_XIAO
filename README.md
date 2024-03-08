@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# **L76K GNSS Module for SeeedStudio XIAO**
+# **L76K GNSS Module for Seeed Studio XIAO**
 
-This repository contains Arduino example code for the Quectel L76K GNSS Module, designed to be used with the SeeedStudio XIAO series development boards. The L76K module supports multi-GNSS systems including GPS, BeiDou, GLONASS, and QZSS, providing high-precision and energy-efficient positioning capabilities.
+This repository contains Arduino example code for the Quectel L76K GNSS Module, designed to be used with the Seeed Studio XIAO series development boards. The L76K module supports multi-GNSS systems including GPS, BeiDou, GLONASS, and QZSS, providing high-precision and energy-efficient positioning capabilities.
 
 </div>
 <p align="center">
@@ -25,15 +25,15 @@ This repository contains Arduino example code for the Quectel L76K GNSS Module, 
 
 ### Hardware Requirements
 
-- A SeeedStudio XIAO development board (SAMD21, RP2040, nRF52840, ESP32C3, or ESP32S3).
-- The L76K GNSS Module for SeeedStudio XIAO.
+- A Seeed Studio XIAO development board (SAMD21, RP2040, nRF52840, ESP32C3, or ESP32S3).
+- The L76K GNSS Module for Seeed Studio XIAO.
 - An active GNSS antenna (included with the module).
 
 ### Software Setup
 
 1. **Install Arduino IDE** - Download and install the Arduino IDE from the [official Arduino website](https://www.arduino.cc/en/software).
 
-2. **Configure Arduino IDE for SeeedStudio XIAO** - Follow the instructions in the [Seeed Wiki](https://wiki.seeedstudio.com/Seeeduino-XIAO/#software) to add support for your specific XIAO development board.
+2. **Configure Arduino IDE for Seeed Studio XIAO** - Follow the instructions in the [Seeed Wiki](https://wiki.seeedstudio.com/Seeeduino-XIAO/#software) to add support for your specific XIAO development board.
 
 3. **Install TinyGPSPlus Library** - In the Arduino IDE, go to `Sketch` > `Include Library` > `Manage Libraries...`, search for "TinyGPSPlus", and install the library.
 
@@ -64,7 +64,7 @@ Open the `BasicExample.ino` sketch in the Arduino IDE, select your XIAO board an
 
 ## Purchase
 
-Get your L76K GNSS Module for SeeedStudio XIAO [here](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html).
+Get your L76K GNSS Module for Seeed Studio XIAO [here](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html).
 
 ## Contributing
 
